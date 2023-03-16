@@ -2,7 +2,7 @@
   "name": "grocery",
   "version": "1.0.0",
   "description": "",
-  "main": "oilmasala.js",
+  "main": "snacks.js",
   "type": "module",
   "scripts": {
     "test": "node snacks.js",
